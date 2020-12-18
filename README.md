@@ -1,4 +1,4 @@
-### Hi there 👋 Hey is a snap shot of my skillset. Read my bio for more!
+### Hi there 👋 Here is a snap shot of my skillset. Read my bio for more!
 <table>
   <tr>
     <td width="200px">
@@ -11,7 +11,7 @@
       <img  src="custom/docker.jpg" width="250px" height="200px" style="width:250px;height:200px">
     </td>
   </tr>
-</table><br/><hr/>
+</table><br/><h3>Getting started</h3><hr/>
 - I have been programming all my life, started with Java and C++, but grew into other langauges. My stong suites is .NET C# with
   other .NET frameworks and languages like ASP.net, F# and VB.net. Node is my favorite quick setup of an API server or desktop
   app with electron. Connecting mongoDB, use bootstrap/jquery or angualar for a frontend and a nodeJS Backend all in docker... 
