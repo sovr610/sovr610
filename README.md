@@ -1,7 +1,14 @@
 ### Hi there 👋
-
-<img src="custom/dotNET.png"  width="200px" height="200px" style="width:200px;height:200px">
-<img src="custom/node.png" width="250px" height="200px" style="width:250px;height:200px">
+<table>
+  <tr>
+    <td>
+      <img src="custom/dotNET.png"  width="200px" height="200px" style="width:200px;height:200px">
+    </td>
+    <td>
+      <img  src="custom/node.png" width="250px" height="200px" style="width:250px;height:200px">
+    </td>
+  </tr>
+</table>
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
