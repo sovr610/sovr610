@@ -1,10 +1,10 @@
 ### Hi there 👋
 <table>
   <tr>
-    <td>
+    <td width="200px">
       <img src="custom/dotNET.png"  width="200px" height="200px" style="width:200px;height:200px">
     </td>
-    <td>
+    <td width="250px">
       <img  src="custom/node.png" width="250px" height="200px" style="width:250px;height:200px">
     </td>
   </tr>
