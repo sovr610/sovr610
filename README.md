@@ -11,6 +11,9 @@
       <img  src="custom/docker.jpg" width="250px" height="200px" style="width:250px;height:200px">
     </td>
   </tr>
+  <td width="250px">
+    <img  src="custom/python.png" width="250px" height="200px" style="width:250px;height:200px">
+  </td>
 </table>
 
 <!--
