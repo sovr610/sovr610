@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Dot NET](custom/dotNET.png) ![NodeJS](custom/node.png) 
+<img src="custom/dotNET.png" style="width:200px;height:200px">
+<img src="custom/node.png" style="width:250px;height:200px">
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
