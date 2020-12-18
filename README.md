@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Dot NET](custom/dotNET.png) ![NodeJS](custom/node.png) 
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
