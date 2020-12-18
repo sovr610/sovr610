@@ -20,6 +20,12 @@
   <td width="250px">
     <img  src="custom/python.png" width="250px" height="200px" style="width:250px;height:200px">
   </td>
+  <td width="250px">
+    <img  src="custom/pytorch.png" width="250px" height="200px" style="width:250px;height:200px">
+  </td>
+  <td width="250px">
+    <img  src="custom/aws.png" width="250px" height="200px" style="width:250px;height:200px">
+  </td>
 </table>
 
 <!--
