@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Hey is a snap shot of my skillset. Read my bio for more!
 <table>
   <tr>
     <td width="200px">
       <img src="custom/dotNET.png"  width="200px" height="200px" style="width:200px;height:200px">
     </td>
     <td width="250px">
-      <img  src="custom/node.png" width="250px" height="200px" style="width:250px;height:200px">
+      <img  src="custom/node.png" width="300px" height="200px" style="width:250px;height:200px">
     </td>
     <td width="250px">
       <img  src="custom/docker.jpg" width="250px" height="200px" style="width:250px;height:200px">
