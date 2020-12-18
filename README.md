@@ -8,7 +8,7 @@
       <img  src="custom/node.png" width="250px" height="200px" style="width:250px;height:200px">
     </td>
     <td width="250px">
-      <img  src="custom/docker.png" width="250px" height="200px" style="width:250px;height:200px">
+      <img  src="custom/docker.jpg" width="250px" height="200px" style="width:250px;height:200px">
     </td>
   </tr>
 </table>
