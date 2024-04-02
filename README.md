@@ -6,6 +6,8 @@
 ## &nbsp; My List Of Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net" width="50" height="50"/>
+
 
 
 - I have been programming all my life, started with Java and C++, but grew into other langauges. My stong suites is .NET C# with
