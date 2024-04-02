@@ -16,6 +16,10 @@ As a seasoned software engineer, my journey began with Java and C++, evolving in
 My passion extends to artificial intelligence and machine learning, where I leverage TensorFlow, PyTorch, and ML.NET to develop systems that engage in meaningful interactions. My portfolio encompasses full-stack web development, game development, and mobile app creation, highlighted by projects such as autonomous robots, cryptocurrency trading bots, and mobile gaming applications.
 
 Explore my GitHub to see my contributions to open-source projects and connect over creating intelligent, innovative software solutions.
+<br/><hr/>
+
+## &nbsp; Github Stats
+[![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
