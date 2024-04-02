@@ -11,17 +11,11 @@
           
 <br/><hr/>
 ## &nbsp; About Myself
-As a seasoned software engineer with a lifelong passion for technology, I have cultivated a diverse expertise in software development, beginning with foundational skills in Java and C++. Over the years, my focus has expanded to include a deep proficiency in .NET technologies, notably C# along with ASP.NET, F#, and VB.NET, positioning me as a comprehensive .NET specialist.
+As a seasoned software engineer, my journey began with Java and C++, evolving into a deep expertise in .NET technologies, notably C#, ASP.NET, F#, and VB.NET. I thrive on creating efficient, scalable solutions using Node.js for API servers or desktop applications, integrating MongoDB, and employing front-end frameworks like Bootstrap and Angular within Docker environments.
 
-My enthusiasm for efficient and scalable development leads me to favor Node.js for swiftly deploying API servers or desktop applications via Electron, integrating MongoDB, and leveraging front-end technologies such as Bootstrap, jQuery, or Angular, all within Docker environments. This encapsulates my fondness for full-stack development, where crafting interactive and responsive web applications is not just a job, but a joy.
+My passion extends to artificial intelligence and machine learning, where I leverage TensorFlow, PyTorch, and ML.NET to develop systems that engage in meaningful interactions. My portfolio encompasses full-stack web development, game development, and mobile app creation, highlighted by projects such as autonomous robots, cryptocurrency trading bots, and mobile gaming applications.
 
-Artificial Intelligence and Machine Learning represent the frontier of my professional interests. With experience in TensorFlow, PyTorch, and ML.NET, I am drawn to the challenge and reward of building systems capable of 'understanding' and responding to human interaction—a testament to the potential of AI to enrich our lives.
-
-My portfolio extends through full-stack web development to game development, desktop, and mobile app creation. Among my accomplishments are the construction of autonomous robots, development of cryptocurrency trading bots leveraging arbitrage strategies, ownership of mobile gaming applications, and contributions to numerous other projects.
-
-I invite you to explore my GitHub page and repositories, where I share my journey through open-source projects, each reflecting my commitment to innovation, collaboration, and the perpetual pursuit of learning.
-
-Let's connect and explore how we can create the next generation of intelligent, user-centric software solutions together.
+Explore my GitHub to see my contributions to open-source projects and connect over creating intelligent, innovative software solutions.
 
 
 <!--
