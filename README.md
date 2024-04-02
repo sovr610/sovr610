@@ -3,19 +3,11 @@
 
 ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
 
-<table>
-  <tr>
-    <td width="200px">
-      <img src="custom/dotNET.png"  width="200px" height="200px" style="width:200px;height:200px">
-    </td>
-    <td width="250px">
-      <img  src="custom/node.png" width="300px" height="200px" style="width:250px;height:200px">
-    </td>
-    <td width="250px">
-      <img  src="custom/docker.jpg" width="250px" height="200px" style="width:250px;height:200px">
-    </td>
-  </tr>
-</table><br/><h3>Getting started</h3><hr/>
+## &nbsp; My List Of Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="50" height="50" />
+
+
 - I have been programming all my life, started with Java and C++, but grew into other langauges. My stong suites is .NET C# with
   other .NET frameworks and languages like ASP.net, F# and VB.net. Node is my favorite quick setup of an API server or desktop
   app with electron. Connecting mongoDB, use bootstrap/jquery or angualar for a frontend and a nodeJS Backend all in docker... 
@@ -24,17 +16,7 @@
   desktop apps and mobile app development. Some things I have done... I have builted robots, build crypto trading bots with
   arbitrage trading, ownn mobile game apps, and many other projects. Make sure to check my github pages website and the repo's
   below! I have many open source projects!<hr/><br/>
-<table>
-  <td width="250px">
-    <img  src="custom/python.png" width="250px" height="200px" style="width:250px;height:200px">
-  </td>
-  <td width="250px">
-    <img  src="custom/pyTorch.png" width="250px" height="200px" style="width:250px;height:200px">
-  </td>
-  <td width="250px">
-    <img  src="custom/aws.png" width="250px" height="200px" style="width:250px;height:200px">
-  </td>
-</table>
+
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
