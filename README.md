@@ -1,4 +1,8 @@
 ### Hi there 👋 Here is a snap shot of my skillset. Read my bio for more!
+
+
+![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
+
 <table>
   <tr>
     <td width="200px">
