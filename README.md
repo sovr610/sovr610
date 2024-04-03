@@ -1,21 +1,4 @@
 
-.round-red-button {
-  display: inline-block; /* Allows applying padding and makes it possible to transform the anchor into a block-like element */
-  padding: 10px 15px; /* Adjusts the size of the button */
-  background-color: red; /* Button color */
-  color: white; /* Text color */
-  text-align: center; /* Centers the text inside the button */
-  border-radius: 50%; /* Makes the button round */
-  text-decoration: none; /* Removes the underline from the anchor tag */
-  font-weight: bold; /* Optional: Makes the font bold */
-}
-
-/* Optional: Add some hover effects */
-.round-red-button:hover {
-  background-color: darkred; /* Darker shade of red on hover */
-}
-</style>
-
 <a href="https://www.linkedin.com/in/parkerbidigare/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/></a>
 <a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> [<kbd> <br> Portfolio Website <br> </kbd>][https://parkerbidigare.com/]
 
