@@ -1,4 +1,4 @@
-<style>
+
 .round-red-button {
   display: inline-block; /* Allows applying padding and makes it possible to transform the anchor into a block-like element */
   padding: 10px 15px; /* Adjusts the size of the button */
@@ -17,7 +17,7 @@
 </style>
 
 <a href="https://www.linkedin.com/in/parkerbidigare/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/></a>
-<a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> <a href="https://parkerbidigare.com/" class="round-red-button">Portfolio Site</a>
+<a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> [<kbd> <br> Portfolio Website <br> </kbd>][https://parkerbidigare.com/]
 
 <br/>
 ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
