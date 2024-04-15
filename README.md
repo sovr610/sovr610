@@ -25,10 +25,10 @@ Explore my GitHub to see my contributions to open-source projects and connect ov
 <br/><hr/>
 
 ## &nbsp; Github Stats
-[![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/anuraghazra/github-readme-stats)
+[![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/sovr610)
 
 ## &nbsp; Previous Work
-[![Wafis Repository](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=Wafis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/sovr610/Wafis) [![JSPY Engine](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=JSPY_ParkerEngine&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats) [![trainer bot](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=trainerBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats)
+[![Wafis Repository](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=Wafis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/sovr610/Wafis) [![JSPY Engine](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=JSPY_ParkerEngine&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/sovr610/JSPY_ParkerEngine) [![trainer bot](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=trainerBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/sovr610/trainerBot)
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
