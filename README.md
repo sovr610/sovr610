@@ -2,7 +2,6 @@
 <a href="https://www.linkedin.com/in/parkerbidigare/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/></a>
 <a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> 
 
-<br/>
 ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
 
 ## &nbsp; My List Of Skills
@@ -29,7 +28,7 @@ Explore my GitHub to see my contributions to open-source projects and connect ov
 [![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/anuraghazra/github-readme-stats)
 
 ## &nbsp; Previous Work
-[![Wafis Repository](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=Wafis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats) [![JSPY Engine](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=JSPY_ParkerEngine&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats) [![trainer bot](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=trainerBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats)
+[![Wafis Repository](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=Wafis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/sovr610/Wafis) [![JSPY Engine](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=JSPY_ParkerEngine&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats) [![trainer bot](https://github-readme-stats.vercel.app/api/pin/?username=sovr610&repo=trainerBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sovr610/sovr610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
