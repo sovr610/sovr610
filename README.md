@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/parkerbidigare/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/></a>
-<a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> <kbd> <br> [Portfolio Website](https://parkerbidigare.com/) <br> </kbd>
+<a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> 
 
 <br/>
 ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
