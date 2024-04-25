@@ -1,7 +1,9 @@
 
 <a href="https://www.linkedin.com/in/parkerbidigare/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/></a>
 <a href="https://medium.com/@parkerbidigare"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium link"/></a> 
-
+<a href="https://www.parkerbidigare.com/">
+    ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</a>
 ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif)
 
 ## &nbsp; My List Of Skills
@@ -25,7 +27,7 @@ Explore my GitHub to see my contributions to open-source projects and connect ov
 <br/><hr/>
 
 ## &nbsp; Github Stats
-[![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/sovr610) <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="parkerbidigare" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/parkerbidigare?trk=profile-badge">Parker Bidigare</a></div>
+[![Parkers Github Stats](https://github-readme-stats.vercel.app/api?username=sovr610)](https://github.com/sovr610)
               
 
 ## &nbsp; Previous Work
