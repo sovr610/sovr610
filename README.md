@@ -5,7 +5,9 @@
     ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </a>
 
-<center> ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif) </center>
+|   |
+| - |
+| ![Hey there, I am Parker Bidigare.](https://github.com/sovr610/sovr610/raw/master/github-gif.gif) |
 
 ## &nbsp; My List Of Skills
 
